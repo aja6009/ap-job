@@ -1,1 +1,2 @@
 first sqash
+second sqash
